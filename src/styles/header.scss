@@ -1,0 +1,11 @@
+.navbar-light .navbar-brand {
+  font-size: 32px;
+  font-weight: bold;
+  span {
+    color: $color-orange;
+  }
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: $color-black;
+}
